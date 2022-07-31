@@ -7,3 +7,10 @@
 ## After we receive results from part1 it well sending them to arduino, then the arm well go left(180 degrees) or right (0 degrees)
 
 ![arduino](https://user-images.githubusercontent.com/109552640/182041385-d8c82958-398e-45d1-93fb-14b116f38558.png)
+
+# learning references:
+https://makeabilitylab.github.io/physcomp/communication/web-serial.html
+ 
+ https://web.dev/serial/
+ 
+ https://youtube.com/playlist?list=PLYutciIGBqC2HpO0gHoMoAgLhz5n6OoZx
